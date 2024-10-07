@@ -1,7 +1,3 @@
-For your `README.md`, you want to include an introduction to the project, an overview of the contents, instructions on how someone could replicate the analysis or set up Autopsy, and credits if necessary. Here's a detailed template you can use and modify based on your specific project:
-
----
-
 # File System Analysis with Autopsy
 
 **Author**: Alaoui Belghiti Hanaa
